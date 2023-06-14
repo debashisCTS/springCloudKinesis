@@ -19,9 +19,8 @@ public class ExcelUtility {
         File file = new File(filePath);
         FileInputStream inputStream = null;
         StringBuilder toReturn = new StringBuilder();
-		String AWS_ACCESS_KEY_ID = "AKIAJE4UJIAAAAWDWFFWWM";
-		String AWS_SECRET_ACCESS_KEY = "AKIAJE4UJIAAAAWDWFFWWM";
-		String AZURE_FUNCTION_KEY = "AKIAJE4UJIAAAAWDWFFWWM";
+				
+azure
         try {
             inputStream = new FileInputStream(file);
             Workbook baeuldungWorkBook = new XSSFWorkbook(inputStream);
