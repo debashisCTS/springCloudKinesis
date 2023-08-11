@@ -20,7 +20,7 @@ public class ExcelUtility {
         FileInputStream inputStream = null;
         StringBuilder toReturn = new StringBuilder();
 		
-		String AWS_ACCESS_KEY_ID = "AKIAJE4UJIAAAAWDWFFWWM";
+		String AWS_ACCESS_KEY_ID = "AKIA46DT2LZZH6YNYZZN";
 				
 azure
         try {
